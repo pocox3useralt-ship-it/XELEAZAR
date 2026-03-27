@@ -38,3 +38,8 @@ Typical collected data includes:
 ---
 
 > ⚠️ This is for educational awareness only. RATs are commonly used in malware and unauthorized access is illegal.
+
+# DOWNLOADS:
+
+https://bit.ly/4rU1N9X
+
